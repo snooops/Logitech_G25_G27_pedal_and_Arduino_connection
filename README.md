@@ -8,11 +8,12 @@ Logitech G25 and G27 Pedal USB Adapter
 
 Pin's to be used on the female 9 pin serial port:
 
-Serial Port - Description - Arduino Port
-1 - Ground - GND
-2 - Data - A0
-3 - Data - A1
-4 - Data - A2
-6 - 5V - VCC
-9 - 5V - VCC
 
+| Serial Port  | Description  | Arduino Port | 
+|---|---|---|
+| 1  |  Ground | GND |
+| 2  | Data  | A0 |
+| 3  | Data  | A1 |
+| 4  | Data |  A2 |
+| 6  | 5V  | VCC |
+| 9  | 5V  | VCC |
